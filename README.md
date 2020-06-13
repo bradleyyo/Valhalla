@@ -1,2 +1,2 @@
 # Valhalla
-Hall of Records
+Public Hall
